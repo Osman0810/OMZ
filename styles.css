@@ -1,0 +1,104 @@
+
+
+
+/* Navbar */
+
+.navbar{
+  padding: 0 10% 0;
+}
+
+
+
+
+/* Intro */
+
+#intro-center{
+  text-align: center;
+  padding: 13.5% 20% 20%
+  }
+
+.centers{
+  text-align: center;
+  font-weight: 100;
+}
+
+.namestyle{
+  font-weight: 400;
+}
+
+
+
+
+/* Info */
+
+#infodiv{
+  text-align: left;
+  color: white;
+  padding: 15%;
+  background-color: black;
+}
+
+.infopad{
+  padding: 0% 2% 2%
+}
+
+
+/* Edu */
+
+#edudiv{
+  text-align: left;
+  color: white;
+  padding: 15%;
+}
+
+
+
+
+/* Projects */
+
+#projectdiv{
+  text-align: center;
+  color: white;
+  padding: 15%;
+  background-color: black;
+}
+
+
+
+
+/* Contact */
+
+#contactdiv{
+  text-align: center;
+  color: white;
+  padding: 15%;
+}
+
+.whitetext{
+  color: white;
+}
+
+
+form{
+  padding: 2% 10%;
+}
+
+
+
+
+/* Footer */
+
+#footerdiv{
+  background-color: black;
+  padding: 2% 7% 2%;
+  color: grey;
+}
+
+.iconspad{
+  padding: 0 1%;
+  color: grey;
+}
+
+.footeralign{
+  text-align: right;
+}
