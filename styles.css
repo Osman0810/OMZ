@@ -90,15 +90,15 @@ form{
 
 #footerdiv{
   background-color: black;
-  padding: 2% 7% 2%;
+  padding: 2.5% 7% 2.5%;
   color: grey;
 }
 
 .iconspad{
-  padding: 0 1%;
+  padding: 0 2%;
   color: grey;
 }
 
 .footeralign{
-  text-align: right;
+  text-align: center;
 }
